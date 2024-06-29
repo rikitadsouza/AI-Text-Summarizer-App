@@ -1,6 +1,6 @@
 # AI Text Summarizer App
 
-Welcome to the AI Text Summarizer App repository. This project leverages advanced AI algorithms to convert lengthy texts into concise summaries, enhancing productivity for researchers, students, and professionals. This project is part of a **Project-Based Learning: Build an AI Text Summarizer app**.
+Welcome to the AI Text Summarizer App repository. This project leverages  AI algorithm to convert lengthy texts into concise summaries, enhancing productivity for researchers, students, and professionals. This project is part of a **Project-Based Learning: Build an AI Text Summarizer app**.
 
 ## Tech Stack
 
